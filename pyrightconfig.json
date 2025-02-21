@@ -1,0 +1,11 @@
+{
+  "venvPath": ".",
+  "venv": "backend/venv",
+  "pythonPath": "backend/venv/Scripts/python.exe",
+  "extraPaths": ["backend"],
+  "analysis": {
+    "autoSearchPaths": true,
+    "useLibraryCodeForTypes": true,
+    "diagnosticMode": "workspace"
+  }
+} 

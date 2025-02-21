@@ -1,0 +1,227 @@
+[
+  {
+    "Common Name": "Ring-tailed Lemur",
+    "Scientific Name": "Lemur catta",
+    "Type": "Mammal",
+    "Region": "Southern & southwestern Madagascar",
+    "Habitat": "dry forests & bush areas.",
+    "Risk Level": "Endangered (EN)",
+    "Description": "The Ring-tailed Lemur (Lemur catta) is a primate native to southern and southwestern Madagascar, found in dry forests and bush areas. It is currently classified as Endangered."
+  },
+  {
+    "Common Name": "Red Ruffed Lemur",
+    "Scientific Name": "Varecia rubra",
+    "Type": "Mammal",
+    "Region": "Masoala Peninsula in NE Madagascar",
+    "Habitat": "tropical rainforests.",
+    "Risk Level": "Critically Endangered (CR)",
+    "Description": "The Red Ruffed Lemur (Varecia rubra) is a colorful primate living in the tropical rainforests of the Masoala Peninsula in northeastern Madagascar, and is Critically Endangered."
+  },
+  {
+    "Common Name": "Hairy-Eared Dwarf Lemur",
+    "Scientific Name": "Allocebus trichotis",
+    "Type": "Mammal",
+    "Region": "Northeastern Madagascar",
+    "Habitat": "primary rainforests.",
+    "Risk Level": "Vulnerable (VU)",
+    "Description": "The Hairy-Eared Dwarf Lemur (Allocebus trichotis) is a small primate from the primary rainforests of northeastern Madagascar, currently listed as Vulnerable."
+  },
+  {
+    "Common Name": "Decken’s Sifaka",
+    "Scientific Name": "Propithecus deckenii",
+    "Type": "Mammal",
+    "Region": "Western Madagascar",
+    "Habitat": "dry deciduous forests.",
+    "Risk Level": "Endangered (EN)",
+    "Description": "Decken’s Sifaka (Propithecus deckenii) is a lemur native to the dry deciduous forests of western Madagascar, and it is classified as Endangered."
+  },
+  {
+    "Common Name": "Fosa",
+    "Scientific Name": "Cryptoprocta ferox",
+    "Type": "Mammal",
+    "Region": "Throughout Madagascar",
+    "Habitat": "forests & woodland areas.",
+    "Risk Level": "Vulnerable (VU)",
+    "Description": "The Fosa (Cryptoprocta ferox) is Madagascar's largest carnivorous mammal, inhabiting various forests and woodland areas across the island, and is considered Vulnerable."
+  },
+  {
+    "Common Name": "Indri",
+    "Scientific Name": "Indri indri",
+    "Type": "Mammal",
+    "Region": "Eastern Madagascar",
+    "Habitat": "tropical humid lowland & montane forests.",
+    "Risk Level": "Critically Endangered (CR)",
+    "Description": "The Indri (Indri indri) is a large, distinctive lemur from the tropical humid lowland and montane forests of eastern Madagascar, currently Critically Endangered."
+  },
+  {
+    "Common Name": "Crowned Sifaka",
+    "Scientific Name": "Propithecus coronatus",
+    "Type": "Mammal",
+    "Region": "Western Madagascar",
+    "Habitat": "dry deciduous forests.",
+    "Risk Level": "Critically Endangered (CR)",
+    "Description": "The Crowned Sifaka (Propithecus coronatus) is a striking primate of western Madagascar's dry deciduous forests, and its conservation status is Critically Endangered."
+  },
+  {
+    "Common Name": "Coquerel’s Sifaka",
+    "Scientific Name": "Propithecus coquereli",
+    "Type": "Mammal",
+    "Region": "Northwestern Madagascar",
+    "Habitat": "dry deciduous forests.",
+    "Risk Level": "Endangered (EN)",
+    "Description": "Coquerel’s Sifaka (Propithecus coquereli) is a lemur native to the dry deciduous forests of northwestern Madagascar, and it is currently classified as Endangered."
+  },
+  {
+    "Common Name": "Perrier’s Sifaka",
+    "Scientific Name": "Propithecus perrieri",
+    "Type": "Mammal",
+    "Region": "Northern Madagascar",
+    "Habitat": "dry deciduous forests.",
+    "Risk Level": "Critically Endangered (CR)",
+    "Description": "Perrier’s Sifaka (Propithecus perrieri) is a primate inhabiting the dry deciduous forests of northern Madagascar, and is listed as Critically Endangered."
+  },
+  {
+    "Common Name": "Diademed Sifaka",
+    "Scientific Name": "Propithecus diadema",
+    "Type": "Mammal",
+    "Region": "Eastern Madagascar",
+    "Habitat": "primary rainforests.",
+    "Risk Level": "Critically Endangered (CR)",
+    "Description": "The Diademed Sifaka (Propithecus diadema) is a visually impressive lemur from the primary rainforests of eastern Madagascar, and it is Critically Endangered."
+  },
+  {
+    "Common Name": "Aye-aye",
+    "Scientific Name": "Daubentonia madagascariensis",
+    "Type": "Mammal",
+    "Region": "Eastern & northwestern Madagascar",
+    "Habitat": "rainforests & deciduous forests.",
+    "Risk Level": "Endangered (EN)",
+    "Description": "The Aye-aye (Daubentonia madagascariensis) is an unusual nocturnal primate native to Madagascar’s rainforests and deciduous forests, and is classified as Endangered."
+  },
+  {
+    "Common Name": "Crowned Lemur",
+    "Scientific Name": "Eulemur coronatus",
+    "Type": "Mammal",
+    "Region": "Northern Madagascar",
+    "Habitat": "dry deciduous & gallery forests.",
+    "Risk Level": "Endangered (EN)",
+    "Description": "The Crowned Lemur (Eulemur coronatus) is a primate found in northern Madagascar's dry deciduous and gallery forests, and is currently listed as Endangered."
+  },
+  {
+    "Common Name": "Blue-eyed Black Lemur",
+    "Scientific Name": "Eulemur flavifrons",
+    "Type": "Mammal",
+    "Region": "Northwestern Madagascar",
+    "Habitat": "tropical moist forests.",
+    "Risk Level": "Critically Endangered (CR)",
+    "Description": "The Blue-eyed Black Lemur (Eulemur flavifrons) is a distinctive primate of northwestern Madagascar’s tropical moist forests, and it is Critically Endangered."
+  },
+  {
+    "Common Name": "Helmet Vanga",
+    "Scientific Name": "Euryceros prevostii",
+    "Type": "Bird",
+    "Region": "Northeastern Madagascar",
+    "Habitat": "lowland rainforests.",
+    "Risk Level": "Vulnerable (VU)",
+    "Description": "The Helmet Vanga (Euryceros prevostii) is a bird native to the lowland rainforests of northeastern Madagascar, and is classified as Vulnerable."
+  },
+  {
+    "Common Name": "Forest Rock Thrush",
+    "Scientific Name": "Monticola sharpei",
+    "Type": "Bird",
+    "Region": "Central highlands of Madagascar",
+    "Habitat": "montane forests & rocky areas.",
+    "Risk Level": "Vulnerable (VU)",
+    "Description": "The Forest Rock Thrush (Monticola sharpei) is a bird that inhabits the montane forests and rocky areas of Madagascar's central highlands, and it is listed as Vulnerable."
+  },
+  {
+    "Common Name": "Greater Vasa Parrot",
+    "Scientific Name": "Coracopsis vasa",
+    "Type": "Bird",
+    "Region": "Throughout Madagascar",
+    "Habitat": "forests, woodlands, & savannas.",
+    "Risk Level": "Least Concern (LC)",
+    "Description": "The Greater Vasa Parrot (Coracopsis vasa) is a widespread bird across Madagascar, thriving in forests, woodlands, and savannas, and is considered of Least Concern."
+  },
+  {
+    "Common Name": "Madagascar Malachite Kingfisher",
+    "Scientific Name": "Corythornis vintsioides",
+    "Type": "Bird",
+    "Region": "Throughout Madagascar",
+    "Habitat": "near rivers, lakes, & wetlands.",
+    "Risk Level": "Least Concern (LC)",
+    "Description": "The Madagascar Malachite Kingfisher (Corythornis vintsioides) is a vibrant bird commonly found near rivers, lakes, and wetlands throughout Madagascar, and is of Least Concern."
+  },
+  {
+    "Common Name": "Giraffe-necked Weevil",
+    "Scientific Name": "Trachelophorus giraffa",
+    "Type": "Insect",
+    "Region": "Eastern Madagascar",
+    "Habitat": "rainforests, especially on host plant Dichaetanthera arborea.",
+    "Risk Level": "Not Evaluated (NE)",
+    "Description": "The Giraffe-necked Weevil (Trachelophorus giraffa) is an insect native to eastern Madagascar’s rainforests, often seen on its host plant Dichaetanthera arborea, and its risk status has not been evaluated."
+  },
+  {
+    "Common Name": "Comet Moth",
+    "Scientific Name": "Argema mittrei",
+    "Type": "Insect",
+    "Region": "Eastern Madagascar",
+    "Habitat": "rainforests.",
+    "Risk Level": "Not Evaluated (NE)",
+    "Description": "The Comet Moth (Argema mittrei) is a large and striking insect found in the rainforests of eastern Madagascar, with a conservation status that has not been evaluated."
+  },
+  {
+    "Common Name": "Madagascar Hissing Cockroach",
+    "Scientific Name": "Gromphadorhina portentosa",
+    "Type": "Insect",
+    "Region": "Forests & forest edges",
+    "Habitat": "often found under logs & leaf litter.",
+    "Risk Level": "Not Evaluated (NE)",
+    "Description": "The Madagascar Hissing Cockroach (Gromphadorhina portentosa) is an insect known for its distinctive hissing sound, typically found in forests and along forest edges in Madagascar, and it has not been evaluated."
+  },
+  {
+    "Common Name": "Fire Millipede",
+    "Scientific Name": "Aphistogoniulus corallipes",
+    "Type": "Arthropod",
+    "Region": "Eastern Madagascar",
+    "Habitat": "rainforests, in leaf litter & soil.",
+    "Risk Level": "Not Evaluated (NE)",
+    "Description": "The Fire Millipede (Aphistogoniulus corallipes) is an arthropod inhabiting the leaf litter and soil of eastern Madagascar’s rainforests, and its conservation status is not evaluated."
+  },
+  {
+    "Common Name": "Red Dragonfly",
+    "Scientific Name": "Crocothemis erythraea",
+    "Type": "Insect",
+    "Region": "Widespread across Madagascar",
+    "Habitat": "near freshwater bodies like ponds, lakes, rivers.",
+    "Risk Level": "Least Concern (LC)",
+    "Description": "The Red Dragonfly (Crocothemis erythraea) is an insect commonly found near freshwater bodies across Madagascar, and it is classified as Least Concern."
+  },
+  {
+    "Common Name": "African Monarch Butterfly",
+    "Scientific Name": "Danaus chrysippus",
+    "Type": "Insect",
+    "Region": "Throughout Madagascar",
+    "Habitat": "open fields, grasslands, & gardens.",
+    "Risk Level": "Not Evaluated (NE)",
+    "Description": "The African Monarch Butterfly (Danaus chrysippus) is a widespread insect seen in open fields, grasslands, and gardens across Madagascar, with a conservation status that has not been evaluated."
+  },
+  {
+    "Common Name": "Flatid Leaf Bug",
+    "Scientific Name": "Phromnia rosea",
+    "Type": "Insect",
+    "Region": "Eastern & northern Madagascar",
+    "Habitat": "tropical forests, often on tree trunks.",
+    "Risk Level": "Not Evaluated (NE)",
+    "Description": "The Flatid Leaf Bug (Phromnia rosea) is an insect native to the tropical forests of eastern and northern Madagascar, frequently found on tree trunks, and its risk status is not evaluated."
+  },
+  {
+    "Common Name": "Praying Mantis",
+    "Scientific Name": "Mantodea spp.",
+    "Type": "Insect",
+    "Region": "Various regions",
+    "Habitat": "forests, grasslands, & gardens.",
+    "Risk Level": "Not Evaluated (NE)",
+    "Description": "The Praying Mantis (Mantodea spp.) is a predatory insect found in diverse habitats including forests, grasslands, and gardens across Madagascar, and its conservation status has not been evaluated."
+  }
+]
